@@ -1,12 +1,12 @@
 import './App.css'
+import { Home } from './pages/home'
+
 
 function App() {
 
   return (
     <div className=''>
-      <div className='bg-cyan-100 h-20'>
-        <div>Restate</div>
-      </div>
+      <Home/>
    </div>
   )
 }
