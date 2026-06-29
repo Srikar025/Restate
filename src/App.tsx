@@ -3,6 +3,7 @@ import { SearchCard } from './components/SearchCard'
 import { Home } from './pages/home'
 
 
+
 function App() {
 
   return (
